@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Kamil Korzekwa
+name: Lukasz Szymik
 
 # Short bio or description (displayed in the header)
-description: 
+description:
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/avatar.jpg
+avatar: http://s.gravatar.com/avatar/10751581fca2b6c13479081cb1b4f757?s=80
 
 #
 # Flags below are optional
@@ -18,43 +18,43 @@ avatar: /images/avatar.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: kamkor@gmail.com
+  email: lukasz.szymik@gmail.com
   facebook:
   flickr:
-  github: kamkor
+  github: lszymik
   instagram:
-  linkedin: kamkor
+  linkedin: lukaszszymik
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: kamkorz
+  twitter: lszymik
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: kamkor
+disqus: lszymik
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-60307799-1
+google_analytics: UA-88046976-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://blog.kamkor.me
+url: http://beataszymik.pl
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
+baseurl: "/blog"
 
 #
 # !! You don't need to change any of the configuration flags below !!
 #
 
-markdown: redcarpet
+markdown: kramdown
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "strikethrough", "superscript", "with_toc_data"]
-highlighter: pygments
+highlighter: rouge
 permalink: /:title/
 
 # The release of Jekyll Now that you're using
