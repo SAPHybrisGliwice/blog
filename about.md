@@ -3,8 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-I am enjoying programming for more than 20 years. I am constantly improving my skills and seeking new challenges. My main focus is functional programming, cloud computing and AI.
+Hack Your Career blog
 
-### Contact me
+### Contact
 
-[lukasz.szymik@gmail.com](mailto:lukasz.szymik@gmail.com)
+[Hack Your Career](https://www.facebook.com/Hack.your.Career)
